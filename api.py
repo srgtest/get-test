@@ -1,2 +1,3 @@
-def func(param):
-    return param
+def func(param, par):
+    res = param + par
+    return res
